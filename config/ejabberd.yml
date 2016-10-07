@@ -1,0 +1,5 @@
+hosts:
+  - "localhost"
+
+auth_method: custom
+allow_contrib_modules: true
